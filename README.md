@@ -6,4 +6,4 @@ Based on css、JS.
 A simple flower for u to show your love.
 </br>   
 
-See a simple <a href="https://androad.github.io/Flower/" target="_blank" >Demo</a>
+See a simple <a href="https://androad.github.io/Flower/" target="_blank">Demo</a>
